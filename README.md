@@ -1,4 +1,4 @@
-# Peliohjelmointi - Display of Skills by Izabel Silvola
+# Peliohjelmointi - Display of Skills assignment by Izabel Silvola
 ### Movement and pathfinding in Unity
 
 > [!NOTE]
